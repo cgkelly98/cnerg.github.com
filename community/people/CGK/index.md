@@ -1,5 +1,5 @@
 ---
-Layout: person
+Layout: Person
 Title: Carena
 Role: Summer Intern
 Image: Go to Picture.jpeg
